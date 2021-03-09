@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/css/main.59160398.chunk.css",
+    "main.js": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/main.ffdd7e8e.chunk.js",
+    "main.js.map": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/main.ffdd7e8e.chunk.js.map",
+    "runtime-main.js": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/runtime-main.28e3bfc5.js",
+    "runtime-main.js.map": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/runtime-main.28e3bfc5.js.map",
+    "static/css/2.2d3242fe.chunk.css": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/css/2.2d3242fe.chunk.css",
+    "static/js/2.798adbb7.chunk.js": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/2.798adbb7.chunk.js",
+    "static/js/2.798adbb7.chunk.js.map": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/2.798adbb7.chunk.js.map",
+    "index.html": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/index.html",
+    "static/css/2.2d3242fe.chunk.css.map": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/css/2.2d3242fe.chunk.css.map",
+    "static/css/main.59160398.chunk.css.map": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/css/main.59160398.chunk.css.map",
+    "static/js/2.798adbb7.chunk.js.LICENSE.txt": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/js/2.798adbb7.chunk.js.LICENSE.txt",
+    "static/media/logo.e937cf71.png": "/Community-Chat-REACT.JS-REDUX-Firebase-styled-cpn/static/media/logo.e937cf71.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e3bfc5.js",
+    "static/css/2.2d3242fe.chunk.css",
+    "static/js/2.798adbb7.chunk.js",
+    "static/css/main.59160398.chunk.css",
+    "static/js/main.ffdd7e8e.chunk.js"
+  ]
+}
